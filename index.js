@@ -66,7 +66,7 @@ const studentsData = [
   { rollNo: 49, name: 'Priya Katiyar' },
   { rollNo: 50, name: 'Priyanka Shukla' },
   { rollNo: 51, name: 'Priyanshu Patnare' },
-  { rollNo: 52, name: 'Rahul Choudhari' },
+  { rollNo: 52, name: 'Rahul Choudhary' },
   { rollNo: 53, name: 'Rajeshwari' },
   { rollNo: 54, name: 'Ram Namdev' },
   { rollNo: 55, name: 'Reetik Sonp' },
